@@ -1,4 +1,6 @@
-# Scenarios-Legacy-of-the-Land
+<h1>Scenarios-Legacy-of-the-Land</h1> 
+
+<h2>Prompts</h2>
 
 Scenarios:
 Start: A sweeping, wide-angle cinematic landscape painting of the Argentine Pampa at dawn, rendered in a dramatic, epic fantasy art style. Vast, undulating green fields of tall, windswept grasses stretch to an infinite horizon under an immense and powerful sky. Gigantic, turbulent clouds in hues of fiery orange, deep rose, and soft purple are dramatically illuminated by the blinding, golden sun as it crests the horizon, casting down long, volumetric god rays that pierce through the atmospheric haze. A solitary, gnarled ombú tree with a massive, twisted silhouette stands on a distant hill, catching the first light. Jagged, ancient-looking rock formations are scattered throughout the foreground, adding a rugged, primeval feel. A powerful, unseen force seems to be moving through the landscape, creating swirling patterns in the fields and making the grasses wave like an ocean. A winding dirt path leads towards the tree, hinting at a long journey. The entire image is rich with texture and painterly brushstrokes, giving it the feel of a masterpiece from a high-fantasy art gallery.
